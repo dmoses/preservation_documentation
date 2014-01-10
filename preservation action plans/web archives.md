@@ -2,7 +2,7 @@
 
 #### Introduction
 
-This document describes the preservation plan for web archives content in the York University Digital Library. Most of the web archive content content is York University web sites. The preservation plan for web archives content follows from policies and practices described in the [Digital Preservation Strategic Plan]($repo_urldocumentation/digital-preservation-implementation-plan) and the [Digital Preservation Implementation Plan]($repo_urldocumentation/digital-preservation-implementation-plan). This document explains practical steps that $institution take to preserve the intellectual content of web archives in digital format. It outlines the basic tools, methods, and standards used for the long-term preservation of web archive content.
+This document describes the preservation plan for web archives content in the $repo. Most of the web archive content content is York University web sites. The preservation plan for web archives content follows from policies and practices described in the [Digital Preservation Strategic Plan]($repo_urldocumentation/digital-preservation-implementation-plan) and the [Digital Preservation Implementation Plan]($repo_urldocumentation/digital-preservation-implementation-plan). This document explains practical steps that $institution take to preserve the intellectual content of web archives in digital format. It outlines the basic tools, methods, and standards used for the long-term preservation of web archive content.
 
 #### Content Formats
 

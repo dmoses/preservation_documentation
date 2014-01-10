@@ -3,7 +3,7 @@
 ### Archival Information Package (AIP)
 
 - The information package consisting of the Content Information (CI), Preservation Description Information (PDI), Packaging Information (PI), and Descriptive Information (DI) that is archived at $institution.
-- The level of content in a York University Digital Library AIP can vary, depending on the amount of content provided by the submitter.
+- The level of content in a $repo AIP can vary, depending on the amount of content provided by the submitter.
 - This description will use the OAIS Information Model to illustrate completeness of our conceptual model, and will describe, in general terms, what a $institution AIP looks like.
 
 **Content Information (CI)**

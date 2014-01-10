@@ -2,7 +2,7 @@
 
 #### Introduction
 
-This document describes the preservation plan for audio content in the York University Digital Library. Most of the audio content content is from the Sound and Moving Image Library and the Clara Thomas Archives and Special Collections. The preservation plan for audio content follows from policies and practices described in the [Digital Preservation Strategic Plan]($repo_urldocumentation/digital-preservation-implementation-plan) and the [Digital Preservation Implementation Plan]($repo_urldocumentation/digital-preservation-implementation-plan). This document explains practical steps that $institution takes to preserve the intellectual content of audio in digital format. It outlines the basic tools, methods, and standards used for the long-term preservation of audio content.
+This document describes the preservation plan for audio content in the $repo. Most of the audio content content is from the Sound and Moving Image Library and the Clara Thomas Archives and Special Collections. The preservation plan for audio content follows from policies and practices described in the [Digital Preservation Strategic Plan]($repo_urldocumentation/digital-preservation-implementation-plan) and the [Digital Preservation Implementation Plan]($repo_urldocumentation/digital-preservation-implementation-plan). This document explains practical steps that $institution takes to preserve the intellectual content of audio in digital format. It outlines the basic tools, methods, and standards used for the long-term preservation of audio content.
 
 #### Content Formats
 
