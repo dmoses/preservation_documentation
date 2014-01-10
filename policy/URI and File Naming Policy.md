@@ -1,4 +1,4 @@
-# York University Library URL and File Naming Policy
+# $institution URL and File Naming Policy
 
 **DRAFT**
 
@@ -25,9 +25,9 @@ These URIs are aliased using [Islandora Pathauto](https://github.com/rosiel/isla
 Example:
 
 * **Photograph**: New Woodbine : racehorses train for opening of season
-* **Canonical URI**: http://digital.library.yorku.ca/islandora/object/yul:88675
-* **Aliases URL**: http://digital.library.yorku.ca/yul-88675/new-woodbine-racehorses-train-opening-season
+* **Canonical URI**: $repo_urlislandora/object/$repo:88675
+* **Aliases URL**: $repo_url$repo-88675/new-woodbine-racehorses-train-opening-season
 
-### URIs for individual files and events created by York University Libraries
+### URIs for individual files and events created by $institution
 
 

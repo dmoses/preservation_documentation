@@ -2,13 +2,13 @@
 
 ### Policy Statement
 
-YUDL requires immediate identification of the type of file format submitted in order to help mitigate risk posed by format obsolescence. To this end, YUDL employs the use of [DROID](http://www.nationalarchives.gov.uk/information-management/projects-and-work/droid.htm), [JHOVE](http://jhove.sourceforge.net/), [file utility](http://unixhelp.ed.ac.uk/CGI/man-cgi?file), [Exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/), [PRONOM](http://www.nationalarchives.gov.uk/PRONOM/Default.aspx), [NLNZ Metadata Extractor](http://meta-extractor.sourceforge.net/), [ffident](http://web.archive.org/web/20061106114156/http://schmidt.devlib.org/ffident/index.html), and [Tika](http://tika.apache.org/) through the [FITS](http://code.google.com/p/fits/) software package.
+$repo requires immediate identification of the type of file format submitted in order to help mitigate risk posed by format obsolescence. To this end, $repo employs the use of [DROID](http://www.nationalarchives.gov.uk/information-management/projects-and-work/droid.htm), [JHOVE](http://jhove.sourceforge.net/), [file utility](http://unixhelp.ed.ac.uk/CGI/man-cgi?file), [Exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/), [PRONOM](http://www.nationalarchives.gov.uk/PRONOM/Default.aspx), [NLNZ Metadata Extractor](http://meta-extractor.sourceforge.net/), [ffident](http://web.archive.org/web/20061106114156/http://schmidt.devlib.org/ffident/index.html), and [Tika](http://tika.apache.org/) through the [FITS](http://code.google.com/p/fits/) software package.
 
-While YUDL is not dependent on or restricted to any particular format or group of formats, it aims to use well-known, widely accepted formats that support long-term preservation. If a submitter wants to use a specific format not meeting these criteria, an agreement must be reached between the submitter and YUDL.
+While $repo is not dependent on or restricted to any particular format or group of formats, it aims to use well-known, widely accepted formats that support long-term preservation. If a submitter wants to use a specific format not meeting these criteria, an agreement must be reached between the submitter and $repo.
 
 ### Implementation Examples
 
-YUDL makes use of FITS for format identification during the ingestion process where a file format is associated with each file.
+$repo makes use of FITS for format identification during the ingestion process where a file format is associated with each file.
 
 Example characterization and reference to format registry:
 

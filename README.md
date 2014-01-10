@@ -1,8 +1,8 @@
-## Preservation Documentation, York University Libraries
+## Preservation Documentation, $institution
 
 ### Description
 
-This repository represents the version controlled draft versions of York University Libraries' digital preservation policy and documentation. The public and canonical version of the documents live at [YUDL](http://digital.library.yorku.ca/) in the 'Documentation' dropdown menu.
+This repository represents the version controlled draft versions of $institution' digital preservation policy and documentation. The public and canonical version of the documents live at [$repo]($repo_url) in the 'Documentation' dropdown menu.
 
 ### Thanks
 

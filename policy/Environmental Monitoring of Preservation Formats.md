@@ -1,6 +1,6 @@
 ## Environmental Monitoring of Preservation Formats
 
-York University Library continuously monitors developments in the area of file formats to determine if/when formats preserved within the repository are in need of migration. This monitoring takes place through engagement in the digital preservation community, and through monitoring of blogs and mailing lists related to digital preservation.
+$institution continuously monitors developments in the area of file formats to determine if/when formats preserved within the repository are in need of migration. This monitoring takes place through engagement in the digital preservation community, and through monitoring of blogs and mailing lists related to digital preservation.
 
 A partial list of resources monitored includes, but is not limited to:
 

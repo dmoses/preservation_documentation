@@ -1,8 +1,8 @@
 ## Digital Preservation Designated Community Definition
 
-The purpose of York University Libraries' digital preservation efforts is to ensure long-term access to a critical mass of materials of significance to our community. We will emphasize Canadian heritage and scholarship, knowledge produced by York researchers, and unique library and archival holdings from our collections. Our aim is to mobilize research and knowledge in an environment that allows for ease of searching, browsing, retrieval, and reuse. With this work, we intend to make a significant and ongoing contribution to the global digital library.
+The purpose of $institution' digital preservation efforts is to ensure long-term access to a critical mass of materials of significance to our community. We will emphasize Canadian heritage and scholarship, knowledge produced by York researchers, and unique library and archival holdings from our collections. Our aim is to mobilize research and knowledge in an environment that allows for ease of searching, browsing, retrieval, and reuse. With this work, we intend to make a significant and ongoing contribution to the global digital library.
 
-York University Libraries' primary user community consists of, York University:
+$institution' primary user community consists of, York University:
 
 * Faculty
 * Staff
