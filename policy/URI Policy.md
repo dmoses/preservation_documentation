@@ -27,7 +27,3 @@ Example:
 * **Photograph**: New Woodbine : racehorses train for opening of season
 * **Canonical URI**: $repo_urlislandora/object/$repo:88675
 * **Aliases URL**: $repo_url$repo-88675/new-woodbine-racehorses-train-opening-season
-
-### URIs for individual files and events created by $institution
-
-
